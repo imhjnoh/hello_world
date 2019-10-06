@@ -15,3 +15,5 @@ https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX
 - branch: 기존 내용을 유지한 채 새로운 내용을 추가하고 싶을 때 사용한다.
 - checkout: 특정 브랜치(혹은 커밋) 으로 돌아가고 싶을 때 사용
 - 소스트리에서 체크아웃: 브랜치 이름을 ㄷ블 클릭하는 것만으로 체크아웃 가능
+
+이것은 마스터..
