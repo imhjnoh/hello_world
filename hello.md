@@ -16,4 +16,9 @@ https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX
 - checkout: 특정 브랜치(혹은 커밋) 으로 돌아가고 싶을 때 사용
 - 소스트리에서 체크아웃: 브랜치 이름을 ㄷ블 클릭하는 것만으로 체크아웃 가능
 
-이것은 마스터..
+## 머지가 머지?
+
+- 현재 브랜치가 head 브랜치
+- 따라서 버전2에서 마스터에 머지하면 머지? 가 아니고 마스터에 반영되는 것..
+- fast-forwarding ![fasterforward](fast_forward_merging.PNG)
+- conflict가 일어날 수 있는 상황 ![conflict](can_occur_conflict.PNG)
